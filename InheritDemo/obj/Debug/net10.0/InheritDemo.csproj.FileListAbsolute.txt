@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\InheritDemo\bin\Debug\net10.0\InheritDemo.exe
+C:\Users\90262\Desktop\CSHARP\InheritDemo\bin\Debug\net10.0\InheritDemo.deps.json
+C:\Users\90262\Desktop\CSHARP\InheritDemo\bin\Debug\net10.0\InheritDemo.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\InheritDemo\bin\Debug\net10.0\InheritDemo.dll
+C:\Users\90262\Desktop\CSHARP\InheritDemo\bin\Debug\net10.0\InheritDemo.pdb
+C:\Users\90262\Desktop\CSHARP\InheritDemo\obj\Debug\net10.0\InheritDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\InheritDemo\obj\Debug\net10.0\InheritDemo.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\InheritDemo\obj\Debug\net10.0\InheritDemo.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\InheritDemo\obj\Debug\net10.0\InheritDemo.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\InheritDemo\obj\Debug\net10.0\InheritDemo.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\InheritDemo\obj\Debug\net10.0\InheritDemo.dll
+C:\Users\90262\Desktop\CSHARP\InheritDemo\obj\Debug\net10.0\refint\InheritDemo.dll
+C:\Users\90262\Desktop\CSHARP\InheritDemo\obj\Debug\net10.0\InheritDemo.pdb
+C:\Users\90262\Desktop\CSHARP\InheritDemo\obj\Debug\net10.0\InheritDemo.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\InheritDemo\obj\Debug\net10.0\ref\InheritDemo.dll

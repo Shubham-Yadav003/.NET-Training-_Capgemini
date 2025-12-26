@@ -12,3 +12,4 @@ C:\Users\90262\Desktop\CSHARP\oops\obj\Debug\net10.0\refint\oops.dll
 C:\Users\90262\Desktop\CSHARP\oops\obj\Debug\net10.0\oops.pdb
 C:\Users\90262\Desktop\CSHARP\oops\obj\Debug\net10.0\oops.genruntimeconfig.cache
 C:\Users\90262\Desktop\CSHARP\oops\obj\Debug\net10.0\ref\oops.dll
+C:\Users\90262\Desktop\CSHARP\oops\obj\Debug\net10.0\oops.sourcelink.json
