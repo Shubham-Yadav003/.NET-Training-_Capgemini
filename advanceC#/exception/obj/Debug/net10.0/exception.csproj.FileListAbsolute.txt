@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\advanceC#\exception\obj\Debug\net10.0\exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\advanceC#\exception\obj\Debug\net10.0\exception.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\exception\obj\Debug\net10.0\exception.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\advanceC#\exception\obj\Debug\net10.0\exception.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\exception\obj\Debug\net10.0\exception.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\exception\bin\Debug\net10.0\exception.exe
+C:\Users\90262\Desktop\CSHARP\advanceC#\exception\bin\Debug\net10.0\exception.deps.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\exception\bin\Debug\net10.0\exception.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\exception\bin\Debug\net10.0\exception.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\exception\bin\Debug\net10.0\exception.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\exception\obj\Debug\net10.0\exception.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\exception\obj\Debug\net10.0\refint\exception.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\exception\obj\Debug\net10.0\exception.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\exception\obj\Debug\net10.0\exception.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\exception\obj\Debug\net10.0\ref\exception.dll

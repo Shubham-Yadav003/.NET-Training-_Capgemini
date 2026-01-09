@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\fileHandling\obj\Debug\net10.0\fileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\fileHandling\obj\Debug\net10.0\fileHandling.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\fileHandling\obj\Debug\net10.0\fileHandling.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\fileHandling\obj\Debug\net10.0\fileHandling.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\fileHandling\obj\Debug\net10.0\fileHandling.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\fileHandling\bin\Debug\net10.0\fileHandling.exe
+C:\Users\90262\Desktop\CSHARP\fileHandling\bin\Debug\net10.0\fileHandling.deps.json
+C:\Users\90262\Desktop\CSHARP\fileHandling\bin\Debug\net10.0\fileHandling.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\fileHandling\bin\Debug\net10.0\fileHandling.dll
+C:\Users\90262\Desktop\CSHARP\fileHandling\bin\Debug\net10.0\fileHandling.pdb
+C:\Users\90262\Desktop\CSHARP\fileHandling\obj\Debug\net10.0\fileHandling.dll
+C:\Users\90262\Desktop\CSHARP\fileHandling\obj\Debug\net10.0\refint\fileHandling.dll
+C:\Users\90262\Desktop\CSHARP\fileHandling\obj\Debug\net10.0\fileHandling.pdb
+C:\Users\90262\Desktop\CSHARP\fileHandling\obj\Debug\net10.0\fileHandling.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\fileHandling\obj\Debug\net10.0\ref\fileHandling.dll

@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\surpriseTest\bin\Debug\net10.0\surpriseTest.exe
+C:\Users\90262\Desktop\CSHARP\surpriseTest\bin\Debug\net10.0\surpriseTest.deps.json
+C:\Users\90262\Desktop\CSHARP\surpriseTest\bin\Debug\net10.0\surpriseTest.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\surpriseTest\bin\Debug\net10.0\surpriseTest.dll
+C:\Users\90262\Desktop\CSHARP\surpriseTest\bin\Debug\net10.0\surpriseTest.pdb
+C:\Users\90262\Desktop\CSHARP\surpriseTest\obj\Debug\net10.0\surpriseTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\surpriseTest\obj\Debug\net10.0\surpriseTest.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\surpriseTest\obj\Debug\net10.0\surpriseTest.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\surpriseTest\obj\Debug\net10.0\surpriseTest.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\surpriseTest\obj\Debug\net10.0\surpriseTest.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\surpriseTest\obj\Debug\net10.0\surpriseTest.dll
+C:\Users\90262\Desktop\CSHARP\surpriseTest\obj\Debug\net10.0\refint\surpriseTest.dll
+C:\Users\90262\Desktop\CSHARP\surpriseTest\obj\Debug\net10.0\surpriseTest.pdb
+C:\Users\90262\Desktop\CSHARP\surpriseTest\obj\Debug\net10.0\surpriseTest.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\surpriseTest\obj\Debug\net10.0\ref\surpriseTest.dll

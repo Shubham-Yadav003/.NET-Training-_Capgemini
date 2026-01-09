@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\advanceC#\indexer\obj\Debug\net10.0\indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\advanceC#\indexer\obj\Debug\net10.0\indexer.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\indexer\obj\Debug\net10.0\indexer.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\advanceC#\indexer\obj\Debug\net10.0\indexer.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\indexer\obj\Debug\net10.0\indexer.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\indexer\bin\Debug\net10.0\indexer.exe
+C:\Users\90262\Desktop\CSHARP\advanceC#\indexer\bin\Debug\net10.0\indexer.deps.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\indexer\bin\Debug\net10.0\indexer.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\indexer\bin\Debug\net10.0\indexer.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\indexer\bin\Debug\net10.0\indexer.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\indexer\obj\Debug\net10.0\indexer.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\indexer\obj\Debug\net10.0\refint\indexer.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\indexer\obj\Debug\net10.0\indexer.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\indexer\obj\Debug\net10.0\indexer.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\indexer\obj\Debug\net10.0\ref\indexer.dll
