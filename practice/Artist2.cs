@@ -59,19 +59,20 @@ public class Artist2
         Console.WriteLine("Element added successfully");
 
     }
+
     private static void DisplayAlbum()
     {
-        if(albums.Count == 0)
+        if (albums.Count == 0)
         {
             Console.WriteLine("No albums available");
             return;
         }
 
         Console.WriteLine("Album list");
-        for(int i = 0; i < albums.Count; i++)
+        for (int i = 0; i < albums.Count; i++)
         {
             Artist abc = (Artist)albums[i];
-            Console.WriteLine($"{i+1} Title: {abc.Title_name}, Artist: {abc.Artist_name}");
+            Console.WriteLine($"{i + 1} Title: {abc.Title_name}, Artist: {abc.Artist_name}");
         }
     }
 }

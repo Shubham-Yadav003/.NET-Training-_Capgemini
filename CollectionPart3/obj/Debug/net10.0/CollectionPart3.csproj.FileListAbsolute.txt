@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\CollectionPart3\obj\Debug\net10.0\CollectionPart3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\CollectionPart3\obj\Debug\net10.0\CollectionPart3.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\CollectionPart3\obj\Debug\net10.0\CollectionPart3.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\CollectionPart3\obj\Debug\net10.0\CollectionPart3.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\CollectionPart3\obj\Debug\net10.0\CollectionPart3.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\CollectionPart3\bin\Debug\net10.0\CollectionPart3.exe
+C:\Users\90262\Desktop\CSHARP\CollectionPart3\bin\Debug\net10.0\CollectionPart3.deps.json
+C:\Users\90262\Desktop\CSHARP\CollectionPart3\bin\Debug\net10.0\CollectionPart3.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\CollectionPart3\bin\Debug\net10.0\CollectionPart3.dll
+C:\Users\90262\Desktop\CSHARP\CollectionPart3\bin\Debug\net10.0\CollectionPart3.pdb
+C:\Users\90262\Desktop\CSHARP\CollectionPart3\obj\Debug\net10.0\CollectionPart3.dll
+C:\Users\90262\Desktop\CSHARP\CollectionPart3\obj\Debug\net10.0\refint\CollectionPart3.dll
+C:\Users\90262\Desktop\CSHARP\CollectionPart3\obj\Debug\net10.0\CollectionPart3.pdb
+C:\Users\90262\Desktop\CSHARP\CollectionPart3\obj\Debug\net10.0\CollectionPart3.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\CollectionPart3\obj\Debug\net10.0\ref\CollectionPart3.dll
