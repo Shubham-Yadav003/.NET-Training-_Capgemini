@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\advanceC#\eventPrec\obj\Debug\net10.0\eventPrec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\advanceC#\eventPrec\obj\Debug\net10.0\eventPrec.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\eventPrec\obj\Debug\net10.0\eventPrec.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\advanceC#\eventPrec\obj\Debug\net10.0\eventPrec.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\eventPrec\obj\Debug\net10.0\eventPrec.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\eventPrec\bin\Debug\net10.0\eventPrec.exe
+C:\Users\90262\Desktop\CSHARP\advanceC#\eventPrec\bin\Debug\net10.0\eventPrec.deps.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\eventPrec\bin\Debug\net10.0\eventPrec.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\eventPrec\bin\Debug\net10.0\eventPrec.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\eventPrec\bin\Debug\net10.0\eventPrec.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\eventPrec\obj\Debug\net10.0\eventPrec.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\eventPrec\obj\Debug\net10.0\refint\eventPrec.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\eventPrec\obj\Debug\net10.0\eventPrec.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\eventPrec\obj\Debug\net10.0\eventPrec.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\eventPrec\obj\Debug\net10.0\ref\eventPrec.dll

@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\advanceC#\fileHandlingPrec\obj\Debug\net10.0\fileHandlingPrec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\advanceC#\fileHandlingPrec\obj\Debug\net10.0\fileHandlingPrec.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\fileHandlingPrec\obj\Debug\net10.0\fileHandlingPrec.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\advanceC#\fileHandlingPrec\obj\Debug\net10.0\fileHandlingPrec.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\fileHandlingPrec\obj\Debug\net10.0\fileHandlingPrec.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\fileHandlingPrec\bin\Debug\net10.0\fileHandlingPrec.exe
+C:\Users\90262\Desktop\CSHARP\advanceC#\fileHandlingPrec\bin\Debug\net10.0\fileHandlingPrec.deps.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\fileHandlingPrec\bin\Debug\net10.0\fileHandlingPrec.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\fileHandlingPrec\bin\Debug\net10.0\fileHandlingPrec.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\fileHandlingPrec\bin\Debug\net10.0\fileHandlingPrec.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\fileHandlingPrec\obj\Debug\net10.0\fileHandlingPrec.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\fileHandlingPrec\obj\Debug\net10.0\refint\fileHandlingPrec.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\fileHandlingPrec\obj\Debug\net10.0\fileHandlingPrec.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\fileHandlingPrec\obj\Debug\net10.0\fileHandlingPrec.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\fileHandlingPrec\obj\Debug\net10.0\ref\fileHandlingPrec.dll

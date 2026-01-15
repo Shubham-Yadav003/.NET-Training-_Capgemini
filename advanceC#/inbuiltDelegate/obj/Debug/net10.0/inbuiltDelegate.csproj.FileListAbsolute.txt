@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\advanceC#\inbuiltDelegate\obj\Debug\net10.0\inbuiltDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\advanceC#\inbuiltDelegate\obj\Debug\net10.0\inbuiltDelegate.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\inbuiltDelegate\obj\Debug\net10.0\inbuiltDelegate.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\advanceC#\inbuiltDelegate\obj\Debug\net10.0\inbuiltDelegate.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\inbuiltDelegate\obj\Debug\net10.0\inbuiltDelegate.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\inbuiltDelegate\bin\Debug\net10.0\inbuiltDelegate.exe
+C:\Users\90262\Desktop\CSHARP\advanceC#\inbuiltDelegate\bin\Debug\net10.0\inbuiltDelegate.deps.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\inbuiltDelegate\bin\Debug\net10.0\inbuiltDelegate.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\inbuiltDelegate\bin\Debug\net10.0\inbuiltDelegate.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\inbuiltDelegate\bin\Debug\net10.0\inbuiltDelegate.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\inbuiltDelegate\obj\Debug\net10.0\inbuiltDelegate.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\inbuiltDelegate\obj\Debug\net10.0\refint\inbuiltDelegate.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\inbuiltDelegate\obj\Debug\net10.0\inbuiltDelegate.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\inbuiltDelegate\obj\Debug\net10.0\inbuiltDelegate.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\inbuiltDelegate\obj\Debug\net10.0\ref\inbuiltDelegate.dll

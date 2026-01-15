@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\advanceC#\delegatePrec\obj\Debug\net10.0\delegatePrec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\advanceC#\delegatePrec\obj\Debug\net10.0\delegatePrec.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\delegatePrec\obj\Debug\net10.0\delegatePrec.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\advanceC#\delegatePrec\obj\Debug\net10.0\delegatePrec.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\delegatePrec\obj\Debug\net10.0\delegatePrec.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\delegatePrec\bin\Debug\net10.0\delegatePrec.exe
+C:\Users\90262\Desktop\CSHARP\advanceC#\delegatePrec\bin\Debug\net10.0\delegatePrec.deps.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\delegatePrec\bin\Debug\net10.0\delegatePrec.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\delegatePrec\bin\Debug\net10.0\delegatePrec.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\delegatePrec\bin\Debug\net10.0\delegatePrec.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\delegatePrec\obj\Debug\net10.0\delegatePrec.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\delegatePrec\obj\Debug\net10.0\refint\delegatePrec.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\delegatePrec\obj\Debug\net10.0\delegatePrec.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\delegatePrec\obj\Debug\net10.0\delegatePrec.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\delegatePrec\obj\Debug\net10.0\ref\delegatePrec.dll
