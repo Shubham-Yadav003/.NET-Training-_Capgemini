@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\advanceC#\BankingTrans\obj\Debug\net10.0\BankingTrans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\advanceC#\BankingTrans\obj\Debug\net10.0\BankingTrans.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\BankingTrans\obj\Debug\net10.0\BankingTrans.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\advanceC#\BankingTrans\obj\Debug\net10.0\BankingTrans.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\BankingTrans\obj\Debug\net10.0\BankingTrans.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\BankingTrans\bin\Debug\net10.0\BankingTrans.exe
+C:\Users\90262\Desktop\CSHARP\advanceC#\BankingTrans\bin\Debug\net10.0\BankingTrans.deps.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\BankingTrans\bin\Debug\net10.0\BankingTrans.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\BankingTrans\bin\Debug\net10.0\BankingTrans.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\BankingTrans\bin\Debug\net10.0\BankingTrans.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\BankingTrans\obj\Debug\net10.0\BankingTrans.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\BankingTrans\obj\Debug\net10.0\refint\BankingTrans.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\BankingTrans\obj\Debug\net10.0\BankingTrans.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\BankingTrans\obj\Debug\net10.0\BankingTrans.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\BankingTrans\obj\Debug\net10.0\ref\BankingTrans.dll

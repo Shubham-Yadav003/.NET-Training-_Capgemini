@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\advanceC#\attributes\obj\Debug\net10.0\attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\advanceC#\attributes\obj\Debug\net10.0\attributes.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\attributes\obj\Debug\net10.0\attributes.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\advanceC#\attributes\obj\Debug\net10.0\attributes.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\attributes\obj\Debug\net10.0\attributes.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\attributes\bin\Debug\net10.0\attributes.exe
+C:\Users\90262\Desktop\CSHARP\advanceC#\attributes\bin\Debug\net10.0\attributes.deps.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\attributes\bin\Debug\net10.0\attributes.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\attributes\bin\Debug\net10.0\attributes.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\attributes\bin\Debug\net10.0\attributes.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\attributes\obj\Debug\net10.0\attributes.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\attributes\obj\Debug\net10.0\refint\attributes.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\attributes\obj\Debug\net10.0\attributes.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\attributes\obj\Debug\net10.0\attributes.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\attributes\obj\Debug\net10.0\ref\attributes.dll

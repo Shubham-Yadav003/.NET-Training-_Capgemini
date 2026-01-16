@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ClassLib",
+    "\\ExxtensionMethod"
   ],
+  "SelectedNode": "\\ClassLib\\Calculator.cs",
   "PreviewInSolutionExplorer": false
 }

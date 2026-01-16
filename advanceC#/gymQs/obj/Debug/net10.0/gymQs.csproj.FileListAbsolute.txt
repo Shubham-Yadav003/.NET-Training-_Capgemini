@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\advanceC#\gymQs\bin\Debug\net10.0\gymQs.exe
+C:\Users\90262\Desktop\CSHARP\advanceC#\gymQs\bin\Debug\net10.0\gymQs.deps.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\gymQs\bin\Debug\net10.0\gymQs.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\gymQs\bin\Debug\net10.0\gymQs.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\gymQs\bin\Debug\net10.0\gymQs.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\gymQs\obj\Debug\net10.0\gymQs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\advanceC#\gymQs\obj\Debug\net10.0\gymQs.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\gymQs\obj\Debug\net10.0\gymQs.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\advanceC#\gymQs\obj\Debug\net10.0\gymQs.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\gymQs\obj\Debug\net10.0\gymQs.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\gymQs\obj\Debug\net10.0\gymQs.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\gymQs\obj\Debug\net10.0\refint\gymQs.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\gymQs\obj\Debug\net10.0\gymQs.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\gymQs\obj\Debug\net10.0\gymQs.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\gymQs\obj\Debug\net10.0\ref\gymQs.dll

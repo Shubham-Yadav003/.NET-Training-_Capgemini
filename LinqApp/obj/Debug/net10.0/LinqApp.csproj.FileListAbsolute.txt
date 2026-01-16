@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\linqApp\obj\Debug\net10.0\LinqApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\linqApp\obj\Debug\net10.0\LinqApp.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\linqApp\obj\Debug\net10.0\LinqApp.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\linqApp\obj\Debug\net10.0\LinqApp.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\linqApp\obj\Debug\net10.0\LinqApp.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\linqApp\bin\Debug\net10.0\LinqApp.exe
+C:\Users\90262\Desktop\CSHARP\linqApp\bin\Debug\net10.0\LinqApp.deps.json
+C:\Users\90262\Desktop\CSHARP\linqApp\bin\Debug\net10.0\LinqApp.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\linqApp\bin\Debug\net10.0\LinqApp.dll
+C:\Users\90262\Desktop\CSHARP\linqApp\bin\Debug\net10.0\LinqApp.pdb
+C:\Users\90262\Desktop\CSHARP\linqApp\obj\Debug\net10.0\LinqApp.dll
+C:\Users\90262\Desktop\CSHARP\linqApp\obj\Debug\net10.0\refint\LinqApp.dll
+C:\Users\90262\Desktop\CSHARP\linqApp\obj\Debug\net10.0\LinqApp.pdb
+C:\Users\90262\Desktop\CSHARP\linqApp\obj\Debug\net10.0\LinqApp.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\linqApp\obj\Debug\net10.0\ref\LinqApp.dll

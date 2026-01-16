@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\advanceC#\logistics\bin\Debug\net10.0\Logistics.exe
+C:\Users\90262\Desktop\CSHARP\advanceC#\logistics\bin\Debug\net10.0\Logistics.deps.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\logistics\bin\Debug\net10.0\Logistics.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\logistics\bin\Debug\net10.0\Logistics.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\logistics\bin\Debug\net10.0\Logistics.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\logistics\obj\Debug\net10.0\Logistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\advanceC#\logistics\obj\Debug\net10.0\Logistics.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\logistics\obj\Debug\net10.0\Logistics.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\advanceC#\logistics\obj\Debug\net10.0\Logistics.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\logistics\obj\Debug\net10.0\Logistics.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\logistics\obj\Debug\net10.0\Logistics.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\logistics\obj\Debug\net10.0\refint\Logistics.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\logistics\obj\Debug\net10.0\Logistics.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\logistics\obj\Debug\net10.0\Logistics.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\logistics\obj\Debug\net10.0\ref\Logistics.dll

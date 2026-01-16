@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\advanceC#\healthsync\obj\Debug\net10.0\HealthSync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\advanceC#\healthsync\obj\Debug\net10.0\HealthSync.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\healthsync\obj\Debug\net10.0\HealthSync.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\advanceC#\healthsync\obj\Debug\net10.0\HealthSync.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\healthsync\obj\Debug\net10.0\HealthSync.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\healthsync\bin\Debug\net10.0\HealthSync.exe
+C:\Users\90262\Desktop\CSHARP\advanceC#\healthsync\bin\Debug\net10.0\HealthSync.deps.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\healthsync\bin\Debug\net10.0\HealthSync.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\healthsync\bin\Debug\net10.0\HealthSync.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\healthsync\bin\Debug\net10.0\HealthSync.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\healthsync\obj\Debug\net10.0\HealthSync.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\healthsync\obj\Debug\net10.0\refint\HealthSync.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\healthsync\obj\Debug\net10.0\HealthSync.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\healthsync\obj\Debug\net10.0\HealthSync.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\healthsync\obj\Debug\net10.0\ref\HealthSync.dll

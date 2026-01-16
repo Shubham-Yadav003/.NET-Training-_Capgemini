@@ -1,38 +1,30 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using ClassLib;
+﻿using System ;
 
-namespace ClassLib
-{
+namespace CalculatorApp {   // Alll 4 method-Name are same and have same parameters, but they are performing different operations as Delegates
     public class Calculator
+{
+    int number1 = 0 ;
+    int number2 = 0 ;
+
+
+    public int Add(int number1, int number2)
     {
-        public int Add(int a, int b)
-        {
-            return a + b;
-        }
-
-        public int Subtract(int a, int b)
-        {
-            return a - b;
-        }
-
-        public int Multiply(int a, int b)
-        {
-            return a * b;
-        }
-
-        public int Divide(int a, int b)
-        {
-            if (b == 0)
-            {
-                Console.WriteLine("Division by zero not allowed");
-                return 0;
-            }
-            return a / b; // integer division
-        }
-
+        return number1 + number2 ;
     }
+
+    public int Subtract(int number1, int number2)
+    {
+        return number1 - number2 ;
+    }
+
+    public int Multiply(int number1, int number2)
+    {
+        return number1 * number2 ;
+    }
+
+    public int Divide(int number1, int number2)
+    {
+        return number1 / number2 ;
+    }
+}
 }
