@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\advanceC#\advancePrec\finditem\obj\Debug\net10.0\FindItem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\advanceC#\advancePrec\finditem\obj\Debug\net10.0\FindItem.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\advancePrec\finditem\obj\Debug\net10.0\FindItem.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\advanceC#\advancePrec\finditem\obj\Debug\net10.0\FindItem.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\advancePrec\finditem\obj\Debug\net10.0\FindItem.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\advancePrec\finditem\bin\Debug\net10.0\FindItem.exe
+C:\Users\90262\Desktop\CSHARP\advanceC#\advancePrec\finditem\bin\Debug\net10.0\FindItem.deps.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\advancePrec\finditem\bin\Debug\net10.0\FindItem.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\advanceC#\advancePrec\finditem\bin\Debug\net10.0\FindItem.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\advancePrec\finditem\bin\Debug\net10.0\FindItem.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\advancePrec\finditem\obj\Debug\net10.0\FindItem.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\advancePrec\finditem\obj\Debug\net10.0\refint\FindItem.dll
+C:\Users\90262\Desktop\CSHARP\advanceC#\advancePrec\finditem\obj\Debug\net10.0\FindItem.pdb
+C:\Users\90262\Desktop\CSHARP\advanceC#\advancePrec\finditem\obj\Debug\net10.0\FindItem.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\advanceC#\advancePrec\finditem\obj\Debug\net10.0\ref\FindItem.dll
