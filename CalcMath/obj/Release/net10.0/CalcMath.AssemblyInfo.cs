@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalcMath")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d8290511b7becc366ed7b1a78e34af3342791e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c39c74d2330cc0cfbfc9d55cfc3062208850a1cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalcMath")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalcMath")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,14 @@
+C:\Users\90262\Desktop\CSHARP\ADODotnetDemo\bin\Debug\ADODotnetDemo.exe.config
+C:\Users\90262\Desktop\CSHARP\ADODotnetDemo\bin\Debug\ADODotnetDemo.exe
+C:\Users\90262\Desktop\CSHARP\ADODotnetDemo\bin\Debug\ADODotnetDemo.pdb
+C:\Users\90262\Desktop\CSHARP\ADODotnetDemo\obj\Debug\ADODotnetDemo.csproj.AssemblyReference.cache
+C:\Users\90262\Desktop\CSHARP\ADODotnetDemo\obj\Debug\ADODotnetDemo.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\ADODotnetDemo\obj\Debug\ADODotnetDemo.exe
+C:\Users\90262\Desktop\CSHARP\ADODotnetDemo\obj\Debug\ADODotnetDemo.pdb
+C:\Users\90262\Desktop\CSHARP\ADO\ADODotnetDemo\obj\Debug\ADODotnetDemo.csproj.AssemblyReference.cache
+C:\Users\90262\Desktop\CSHARP\ADO\ADODotnetDemo\obj\Debug\ADODotnetDemo.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\ADO\ADODotnetDemo\obj\Debug\ADODotnetDemo.exe
+C:\Users\90262\Desktop\CSHARP\ADO\ADODotnetDemo\obj\Debug\ADODotnetDemo.pdb
+C:\Users\90262\Desktop\CSHARP\ADO\ADODotnetDemo\bin\Debug\ADODotnetDemo.exe.config
+C:\Users\90262\Desktop\CSHARP\ADO\ADODotnetDemo\bin\Debug\ADODotnetDemo.exe
+C:\Users\90262\Desktop\CSHARP\ADO\ADODotnetDemo\bin\Debug\ADODotnetDemo.pdb

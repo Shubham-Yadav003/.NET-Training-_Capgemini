@@ -1,0 +1,7 @@
+C:\Users\90262\Desktop\CSHARP\PracticeDB\bin\Debug\PracticeDB.exe.config
+C:\Users\90262\Desktop\CSHARP\PracticeDB\bin\Debug\PracticeDB.exe
+C:\Users\90262\Desktop\CSHARP\PracticeDB\bin\Debug\PracticeDB.pdb
+C:\Users\90262\Desktop\CSHARP\PracticeDB\obj\Debug\PracticeDB.csproj.AssemblyReference.cache
+C:\Users\90262\Desktop\CSHARP\PracticeDB\obj\Debug\PracticeDB.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\PracticeDB\obj\Debug\PracticeDB.exe
+C:\Users\90262\Desktop\CSHARP\PracticeDB\obj\Debug\PracticeDB.pdb

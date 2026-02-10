@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\stack_prec_M\obj\Debug\net10.0\stack_prec_M.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\stack_prec_M\obj\Debug\net10.0\stack_prec_M.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\stack_prec_M\obj\Debug\net10.0\stack_prec_M.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\stack_prec_M\obj\Debug\net10.0\stack_prec_M.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\stack_prec_M\obj\Debug\net10.0\stack_prec_M.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\stack_prec_M\bin\Debug\net10.0\stack_prec_M.exe
+C:\Users\90262\Desktop\CSHARP\stack_prec_M\bin\Debug\net10.0\stack_prec_M.deps.json
+C:\Users\90262\Desktop\CSHARP\stack_prec_M\bin\Debug\net10.0\stack_prec_M.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\stack_prec_M\bin\Debug\net10.0\stack_prec_M.dll
+C:\Users\90262\Desktop\CSHARP\stack_prec_M\bin\Debug\net10.0\stack_prec_M.pdb
+C:\Users\90262\Desktop\CSHARP\stack_prec_M\obj\Debug\net10.0\stack_prec_M.dll
+C:\Users\90262\Desktop\CSHARP\stack_prec_M\obj\Debug\net10.0\refint\stack_prec_M.dll
+C:\Users\90262\Desktop\CSHARP\stack_prec_M\obj\Debug\net10.0\stack_prec_M.pdb
+C:\Users\90262\Desktop\CSHARP\stack_prec_M\obj\Debug\net10.0\stack_prec_M.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\stack_prec_M\obj\Debug\net10.0\ref\stack_prec_M.dll

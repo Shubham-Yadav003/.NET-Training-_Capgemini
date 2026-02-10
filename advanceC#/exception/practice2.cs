@@ -59,7 +59,7 @@ public class Program
             int totalScore = match.CalculateTotalScore();
             Console.WriteLine($"Total score of the cricket team: {totalScore}");
         }
-        catch (InvalidOperationException ex)
+        catch (InvalidOperationException ex) // custom exception 
         {
             Console.WriteLine($"Error: {ex.Message}");
         }
