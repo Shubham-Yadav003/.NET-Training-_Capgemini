@@ -31,14 +31,14 @@ namespace University_Course_Registration_System
                     throw new ArgumentException($"Course with code {code} already exists. ");
                 }
                 // 2. Create Course object
-                Course obj = new Course(code, name, creadits, maxCapacity, prerequisites);
+                Course obj = new Course(code, name, credits, maxCapacity, prerequisites);
                 // 3. Add to AvailableCourses
                 AvailableCourses.Add(code, obj);
-                throw new NotImplementedException();
+                Console.WriteLine($"Course {code} added successfully.");
             }
             catch (ArgumentException ex)
             {
-                Console.WriteLine(ex.Meassage);
+                Console.WriteLine($"Error: {ex.Message}");
             }
         }
 
@@ -48,7 +48,7 @@ namespace University_Course_Registration_System
             // 1. Throw ArgumentException if student ID exists
             try
             {
-                if (Student.ContainsKey(id))
+                if (Students.ContainsKey(id))
                 {
                     throw new ArgumentException($"Student with ID {id} already exists.");
                 }
@@ -56,12 +56,11 @@ namespace University_Course_Registration_System
                 Student obj = new Student(id, name, major, maxCredits, completedCourses);
                 // 3. Add to Students dictionary
                 Students.Add(id, obj);
+                Console.WriteLine($"Student {name} added successfully.");
             }
-
-            //throw new NotImplementedException();
             catch(ArgumentException ex)
             {
-                Console.WriteLine(ex.Message);
+                Console.WriteLine($"Error: {ex.Message}");
             }
         }
 
@@ -71,30 +70,30 @@ namespace University_Course_Registration_System
             // 1. Validate student and course existence
             try
             {
-                if (Students.ContainsKey(studentId))
+                if (!Students.ContainsKey(studentId))
                 {
-                    throw new ArgumentException($"Student with ID {studentId} already exists.");
+                    throw new ArgumentException($"Student with ID {studentId} does not exist.");
                 }
-                else if (AvailableCourses.ContainsKey(courseCode))
+                if (!AvailableCourses.ContainsKey(courseCode))
                 {
-                    throw new ArgumentException($"Course with code {courseCode} already exists.");
+                    throw new ArgumentException($"Course with code {courseCode} does not exist.");
                 }
-
-
 
                 // 2. Call student.AddCourse(course)
-                Student obj = new Student();
-                obj.AddCourse(AvailableCourses[courseCode]);
-                Console.WriteLine($"Student {studentId} successfully registered for course {courseCode}.");
-                return true;
+                Student student = Students[studentId];
+                if (student.AddCourse(AvailableCourses[courseCode]))
+                {
+                    Console.WriteLine($"Student {studentId} successfully registered for course {courseCode}.");
+                    return true;
+                }
+                return false;
                 // 3. Display meaningful messages
             }
             catch (ArgumentException ex)
             {
-                Console.WriteLine(ex.Message);
+                Console.WriteLine($"Error: {ex.Message}");
                 return false;
             }
-            
         }
 
         public bool DropStudentFromCourse(string studentId, string courseCode)
@@ -103,33 +102,40 @@ namespace University_Course_Registration_System
             // 1. Validate student existence
             try
             {
-                // 2. Call student.DropCourse(courseCode)
                 if (!Students.ContainsKey(studentId))
                 {
                     throw new ArgumentException($"Student with ID {studentId} does not exist");
                 }
-
-                Student obj = new Student();
-                obj.DropCourse(courseCode);
-                return true;
+                // 2. Call student.DropCourse(courseCode)
+                Student student = Students[studentId];
+                if (student.DropCourse(courseCode))
+                {
+                    Console.WriteLine($"Student {studentId} successfully dropped course {courseCode}.");
+                    return true;
+                }
+                return false;
             }
             catch (ArgumentException ex)
             {
-                Console.WriteLine(ex.Message);
+                Console.WriteLine($"Error: {ex.Message}");
                 return false;
             }
-            
         }
 
         public void DisplayAllCourses()
         {
             // TODO:
             // Display course code, name, credits, enrollment info
+            if (AvailableCourses.Count == 0)
+            {
+                Console.WriteLine("No courses available.");
+                return;
+            }
+            Console.WriteLine("\nAvailable Courses:");
             foreach (var elem in AvailableCourses)
             {
-                Console.WriteLine($"Course Code: {elem.Value.CourseCode} Course Name: {elem.Value.CourseName} Credits: {elem.Value.Credits} Enrollment: {elem.Value.CurrentEnrollment()}");
+                Console.WriteLine($"Course Code: {elem.Value.CourseCode} | Course Name: {elem.Value.CourseName} | Credits: {elem.Value.Credits} | Enrollment: {elem.Value.GetEnrollmentInfo()}");
             }
-            
         }
 
         public void DisplayStudentSchedule(string studentId)
@@ -142,14 +148,13 @@ namespace University_Course_Registration_System
                 {
                     throw new ArgumentException($"Student with ID {studentId} does not exist");
                 }
-
-                Student obj = new Student();
-                obj.DisplaySchedule();
+                // Call student.DisplaySchedule()
+                Student student = Students[studentId];
+                student.DisplaySchedule();
             }
-            // Call student.DisplaySchedule()
-          catch (ArgumentException ex)
+            catch (ArgumentException ex)
             {
-                Console.WriteLine(ex.Message);
+                Console.WriteLine($"Error: {ex.Message}");
             }
         }
 
@@ -157,12 +162,14 @@ namespace University_Course_Registration_System
         {
             // TODO:
             // Display total students, total courses, average enrollment
-
+            Console.WriteLine("\n=== System Summary ===");
             int students = Students.Count;
             int courses = AvailableCourses.Count;
-            double averageEnrollment = AvailableCourses.Count > 0 ? AvailableCourses.Values.Average(c => c.CurrentEnrollment()) : 0;
+            double averageEnrollment = AvailableCourses.Count > 0 ? AvailableCourses.Values.Average(c => int.Parse(c.GetEnrollmentInfo().Split('/')[0])) : 0;
 
-            Console.WriteLine($"Total Students: {students} Total Courses: {courses} averageEnrollment: {averageEnrollment}");
+            Console.WriteLine($"Total Students: {students}");
+            Console.WriteLine($"Total Courses: {courses}");
+            Console.WriteLine($"Average Enrollment: {averageEnrollment:F2}");
         }
     }
 }

@@ -32,7 +32,7 @@ namespace University_Course_Registration_System
         public bool IsFull()
         {
             // TODO: Return true if CurrentEnrollment >= MaxCapacity
-            if(Course.CurrentEnrollment > Course.MaxCapacity)
+            if(CurrentEnrollment >= MaxCapacity)
             {
                 return true;
             }
@@ -42,34 +42,35 @@ namespace University_Course_Registration_System
         public bool HasPrerequisites(List<string> completedCourses)
         {
             // TODO: Check if ALL prerequisites exist in completedCourses
-            
+            foreach(var prereq in Prerequisites)
+            {
+                if (!completedCourses.Contains(prereq))
+                {
+                    return false;
+                }
+            }
+            return true;
         }
 
         public void EnrollStudent()
         {
             // TODO:
             // 1. Throw InvalidOperationException if course is full
-            try
+            if (IsFull())
             {
-                if (IsFull())
-                {
-                    throw new InvalidOperationException($"Course {CourseCode} is full. Cannot enroll more students.");
-                }
-                Course obj = new Course();
-                obj.CurrentEnrollment = CurrentEnrollment + 1;
-                // 2. Otherwise increment CurrentEnrollment
+                throw new InvalidOperationException($"Course {CourseCode} is full. Cannot enroll more students.");
             }
-            catch (InvalidOperationException ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-
+            // 2. Otherwise increment CurrentEnrollment
+            CurrentEnrollment++;
         }
 
         public void DropStudent()
         {
             // TODO: Decrement CurrentEnrollment only if greater than zero
-            throw new NotImplementedException();
+            if (CurrentEnrollment > 0)
+            {
+                CurrentEnrollment--;
+            }
         }
 
         public string GetEnrollmentInfo()

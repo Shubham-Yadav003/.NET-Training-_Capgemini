@@ -45,56 +45,71 @@ namespace University_Course_Registration_System
         {
             // TODO:
             // 1. Course should not already be registered
-            try
+            if (RegisteredCourses.Any(c => c.CourseCode == course.CourseCode))
             {
-                if (RegisteredCourses.Any(c => c.CourseCode == course.CourseCode))
-                {
-                    throw new ArgumentException($"Course {course.CourseCode} already registered!");
-                }
-                // 2. Total credits + course credits <= MaxCredits
-                int count = 0;
-                foreach(var elem in RegisteredCourses)
-                {
-                    count += elem.Credits;
-                }
-
-                if (count + course.Credits <= course.MaxCapacity)
-                {
-                    return true;
-                }
-                return false;
-                // 3. Course prerequisites must be satisfied
+                throw new ArgumentException($"Course {course.CourseCode} already registered!");
             }
-            
+            // 2. Total credits + course credits <= MaxCredits
+            int count = 0;
+            foreach(var elem in RegisteredCourses)
+            {
+                count += elem.Credits;
+            }
+
+            if (count + course.Credits > MaxCredits)
+            {
+                throw new ArgumentException($"Cannot add course. Total credits would exceed maximum.");
+            }
+            // 3. Course prerequisites must be satisfied
+            if (!course.HasPrerequisites(CompletedCourses))
+            {
+                throw new ArgumentException($"Course {course.CourseCode} requires prerequisite courses.");
+            }
+            return true;
         }
 
         public bool AddCourse(Course course) // to do
         {
             // TODO:
             // 1. Call CanAddCourse
-            if (Student.CanAddCourse(course))
+            try
             {
+                if (!CanAddCourse(course))
+                {
+                    return false;
+                }
+                // 2. Check course capacity
+                if (course.IsFull())
+                {
+                    throw new InvalidOperationException($"Course {course.CourseCode} is full.");
+                }
+                // 3. Add course to RegisteredCourses
                 RegisteredCourses.Add(course);
-            }
-            // 2. Check course capacity
-            // 3. Add course to RegisteredCourses
-            // 4. Call course.EnrollStudent()
-            Course obj = new Course();
-           if(obj.EnrollStudent())
-            {
+                // 4. Call course.EnrollStudent()
+                course.EnrollStudent();
                 return true;
             }
-            return false;
-           
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+                return false;
+            }
         }
 
         public bool DropCourse(string courseCode)
         {
             // TODO:
             // 1. Find course by code
+            var course = RegisteredCourses.FirstOrDefault(c => c.CourseCode == courseCode);
+            if (course == null)
+            {
+                throw new ArgumentException($"Course {courseCode} not found in student schedule.");
+            }
             // 2. Remove from RegisteredCourses
+            RegisteredCourses.Remove(course);
             // 3. Call course.DropStudent()
-            throw new NotImplementedException();
+            course.DropStudent();
+            return true;
         }
 
         public void DisplaySchedule() // to do
@@ -102,9 +117,15 @@ namespace University_Course_Registration_System
             // TODO:
             // Display course code, name, and credits
             // If no courses registered, display appropriate message
+            if (RegisteredCourses.Count == 0)
+            {
+                Console.WriteLine("No courses registered.");
+                return;
+            }
+            Console.WriteLine($"Schedule for {Name} ({StudentId}):");
             foreach(var elem in RegisteredCourses)
             {
-                Console.Writeline($"Course Code: {elem.CourseCode} CourseName: {elem.CourseName} Credits: {elem.Credits}");
+                Console.WriteLine($"Course Code: {elem.CourseCode} CourseName: {elem.CourseName} Credits: {elem.Credits}");
             }
         }
     }
